@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://3.108.64.180:9980/mithuntechnologies/repository/nodejsrepo-mss/"
+    "registry": "http://13.234.78.39:7777/dayatechlimited/repository/nodejs-dtl/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
@@ -33,6 +33,6 @@
     "Mithun Technologies",
     "express"
   ],
-  "author": "Mithun Reddy Lacchannagari",
-  "license": "MIT"
+  "author": "Samuel Polagani",
+  "license": "DTL"
 }
