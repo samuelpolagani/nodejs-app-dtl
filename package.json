@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://13.234.78.39:7777/dayatechlimited/repository/nodejs-dtl/"
+    "registry": "http://18.142.138.69:8081/dayatechlimited/repository/nodejs-dtl/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
